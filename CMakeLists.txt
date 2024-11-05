@@ -1,0 +1,30 @@
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(
+        image_processor
+        headers/Pixel.h
+        cpp/Pixel.cpp
+        headers/Image.h
+        cpp/Image.cpp
+        headers/MainFilter.h
+        headers/Application.h
+        cpp/Application.cpp
+        headers/Parser.h
+        cpp/Parser.cpp
+        filters/Crop.cpp
+        filters/Grayscale.cpp
+        filters/Negative.cpp
+        filters/Sharpening.cpp
+        image_processor.cpp
+        cpp/open_save.cpp
+        filters/Edge.cpp
+        headers/Crop.h
+        headers/Grayscale.h
+        headers/Negative.h
+        headers/Sharpening.h
+        headers/Edge.h
+        filters/Blur.cpp
+        headers/Blur.h
+        headers/MosaicFilter.h
+        filters/MosaicFilter.cpp
+)

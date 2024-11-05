@@ -1,0 +1,3 @@
+/home/karina/Documents/ami-2310-2-Karina-Ivanova-KarinaIv-main/tasks/image_processor/cmake-build-debug/CMakeFiles/image_processor.dir
+/home/karina/Documents/ami-2310-2-Karina-Ivanova-KarinaIv-main/tasks/image_processor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/karina/Documents/ami-2310-2-Karina-Ivanova-KarinaIv-main/tasks/image_processor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
